@@ -1,4 +1,4 @@
-import { createFilter } from 'rollup-pluginutils';
+import { createFilter } from '@rollup/pluginutils';
 import { minify } from 'html-minifier';
 
 export default function string(opts = {}) {

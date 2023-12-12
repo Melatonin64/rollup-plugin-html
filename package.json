@@ -8,8 +8,8 @@
     "dist"
   ],
   "dependencies": {
-    "html-minifier": "^3.0.2",
-    "rollup-pluginutils": "^1.5.0"
+    "@rollup/pluginutils": "^5.1.0",
+    "html-minifier": "^4.0.0"
   },
   "devDependencies": {
     "buble": "^0.10.6",
